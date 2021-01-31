@@ -25,7 +25,7 @@ Time spent: **4 hour 00 minutes** hours spent in total
 
 ### App Walkthrough GIF
 
-<img src="https://github.com/Sarina58/Flix-Sarina-Martinez-/blob/main/ezgif.com-gif-maker.mov.gif" width=250><br>
+<img src="https://github.com/Sarina58/Flix-Sarina-Martinez-/blob/main/ezgif.com-gif-maker.mov." width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
