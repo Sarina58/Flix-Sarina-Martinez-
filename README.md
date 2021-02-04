@@ -4,7 +4,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 Submitted by: **Sarina Martinez**
 
-Time spent: **3 hour 40 minutes ** hours spent in total
+Time spent: **3 hour 40 minutes ** hours spent in total for part 2
 
 ## Flix Part 2
 
@@ -30,7 +30,9 @@ Describe any challenges encountered while building the app.
 ## Flix Part 1
 Submitted by: **Sarina Martinez**
 
-Time spent: **4 hour** hours spent in total### User Stories
+Time spent: **4 hour** hours spent in total for part 1
+
+### User Stories
 
 #### REQUIRED (10pts)
 - [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
